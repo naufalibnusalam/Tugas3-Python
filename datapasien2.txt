@@ -1,0 +1,13 @@
+Nomor	Nama Pasien	Umur	Gender	Diagnosa Sakit
+1	Anto	24	L	Tidak
+2	Budi	35	L	Ya
+3	Adi	55	L	Ya
+4	Delima	32	P	Ya
+5	Dodi	21	L	Tidak
+6	Tukiyem	19	P	Tidak
+7	Rama	23	L	Tidak
+8	Santi	35	P	Tidak
+9	Mery	44	P	Ya
+10	Yanti	27	P	Tidak
+11	Parto	43	L	Ya
+12	Dea	24	P	Tidak
